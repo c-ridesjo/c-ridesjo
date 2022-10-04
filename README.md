@@ -1,7 +1,7 @@
 About me
 
 - 👋 Hi, I’m @c-ridesjo
-- 👀 I’m studying front end development.
+- 👀 I’m studying front end development at Medieinstitutet.
 - 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me: www.linkedin.com/in/camillaridesjö
 
