@@ -1,4 +1,4 @@
-OM MIG
+About me
 
 - 👋 Hi, I’m @c-ridesjo
 - 👀 I’m studying front end development.
