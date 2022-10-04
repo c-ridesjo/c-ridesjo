@@ -1,10 +1,9 @@
 OM MIG
 
 - 👋 Hi, I’m @c-ridesjo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m studying front end development.
+- 🌱 I’m currently learning HTML and CSS.
+- 📫 How to reach me: www.linkedin.com/in/camillaridesjö
 
 <!---
 c-ridesjo/c-ridesjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
